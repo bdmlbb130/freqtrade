@@ -58,6 +58,8 @@
             "BTC/USD",
             "ETH/USD",
             "SOL/USD"
+            "ETH/USD"
+            "PEPE/USD"
         ],
         "pair_blacklist": []
     },
